@@ -3,7 +3,9 @@
 
   ## Video Demo
 
-Uploading Ecommerce backend.mp4…
+https://github.com/thefrenchman1/E-Commerce-Retail-Backend/assets/139165770/63393c0f-0c63-48dc-af3e-1714bae8299c
+
+mp4…
 
   ## Description
   
