@@ -5,8 +5,6 @@
 
 https://github.com/thefrenchman1/E-Commerce-Retail-Backend/assets/139165770/63393c0f-0c63-48dc-af3e-1714bae8299c
 
-mp4…
-
   ## Description
   
   A backend finished app that creates routes for product IDs
